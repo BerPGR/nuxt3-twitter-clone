@@ -10,7 +10,11 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@heroicons/vue": "^1.0.6",
     "nuxt": "^3.13.0",
     "vue": "latest"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.1"
   }
 }
